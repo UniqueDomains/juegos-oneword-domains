@@ -67,7 +67,7 @@ print(df.head())
 | easy.juegos      | available | $478.98   | —             | 128            | 68     | 4      | namecheap       |
 | football.juegos  | resell    | —         | —             | 100            | 36     | 8      | NameCheap, Inc. |
 | about.juegos     | premium   | $478.98   | —             | 94             | 37     | 5      | namecheap       |
-| free.juegos      | available | $478.98   | —             | 88             | 59     | 4      | namecheap       |
+| free.juegos      | available | $478.98   | —             | 88             | 57     | 4      | namecheap       |
 | blue.juegos      | premium   | —         | —             | 92             | 99     | 4      | —               |
 | live.juegos      | available | $478.98   | —             | 108            | 56     | 4      | namecheap       |
 | love.juegos      | premium   | —         | —             | 86             | 99     | 4      | —               |
@@ -83,7 +83,7 @@ print(df.head())
 | authentic.juegos | premium   | —         | —             | 76             | 98     | 9      | —               |
 | alpha.juegos     | available | $478.98   | —             | 90             | 53     | 5      | namecheap       |
 | lively.juegos    | premium   | —         | —             | 70             | 98     | 6      | —               |
-| fast.juegos      | available | $478.98   | —             | 82             | 53     | 4      | namecheap       |
+| art.juegos       | available | $478.98   | —             | 90             | 52     | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
