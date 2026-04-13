@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .juegos one-word domains from Uniq
 
 **Public extract:** 9,924 rows · **Live catalog:** 9,924 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/juegos`  
 **Best for:** founders, investors, studios
 
@@ -77,11 +77,11 @@ print(df.head())
 | audible.juegos   | premium   | —         | —             | 112            | 98     | 7      | —               |
 | good.juegos      | available | $478.98   | —             | 82             | 55     | 4      | namecheap       |
 | sapphire.juegos  | premium   | —         | —             | 92             | 98     | 8      | —               |
-| alpha.juegos     | available | $478.98   | —             | 90             | 54     | 5      | namecheap       |
-| blink.juegos     | premium   | —         | —             | 80             | 98     | 5      | —               |
 | zero.juegos      | available | $478.98   | —             | 112            | 53     | 4      | namecheap       |
-| authentic.juegos | premium   | —         | —             | 76             | 98     | 9      | —               |
+| blink.juegos     | premium   | —         | —             | 80             | 98     | 5      | —               |
 | business.juegos  | available | $478.98   | —             | 100            | 53     | 8      | namecheap       |
+| authentic.juegos | premium   | —         | —             | 76             | 98     | 9      | —               |
+| alpha.juegos     | available | $478.98   | —             | 90             | 53     | 5      | namecheap       |
 | lively.juegos    | premium   | —         | —             | 70             | 98     | 6      | —               |
 | fast.juegos      | available | $478.98   | —             | 82             | 53     | 4      | namecheap       |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
