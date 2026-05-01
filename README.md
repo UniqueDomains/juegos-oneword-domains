@@ -1,10 +1,10 @@
-# Available .JUEGOS One-Word Domains (12,376)
+# Available .JUEGOS One-Word Domains (12,901)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C376%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C901%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .juegos one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,376 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,901 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,376 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,901 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/juegos`  
 **Best for:** founders, investors, studios
 
@@ -65,12 +65,9 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | agents.juegos       | available | $478.98   | —             | 56             | 50     | 6      | namecheap |
-| Ryan.juegos         | available | $478.98   | —             | 60             | 44     | 4      | namecheap |
 | jobs.juegos         | available | $478.98   | —             | 79             | 42     | 4      | namecheap |
 | Tools.juegos        | available | $478.98   | —             | 56             | 40     | 5      | namecheap |
 | matcha.juegos       | available | $478.98   | —             | 86             | 39     | 6      | namecheap |
-| whynot.juegos       | available | $478.98   | —             | 74             | 39     | 7      | namecheap |
-| events.juegos       | available | $478.98   | —             | 68             | 37     | 6      | namecheap |
 | stories.juegos      | available | $478.98   | —             | 58             | 36     | 7      | namecheap |
 | homes.juegos        | available | $478.98   | —             | 86             | 34     | 5      | namecheap |
 | tickets.juegos      | available | $478.98   | —             | 64             | 34     | 7      | namecheap |
@@ -80,10 +77,13 @@ print(df.head())
 | William.juegos      | available | $478.98   | —             | 74             | 31     | 7      | namecheap |
 | inspiration.juegos  | available | $478.98   | —             | 88             | 30     | 11     | namecheap |
 | rewards.juegos      | available | $478.98   | —             | 62             | 30     | 7      | namecheap |
-| heroes.juegos       | available | $478.98   | —             | 68             | 29     | 6      | namecheap |
 | quotes.juegos       | available | $478.98   | —             | 58             | 29     | 6      | namecheap |
 | Jim.juegos          | available | $478.98   | —             | 78             | 28     | 3      | namecheap |
 | commonground.juegos | available | $478.98   | —             | 74             | 28     | 13     | namecheap |
+| photos.juegos       | available | $478.98   | —             | 54             | 28     | 6      | namecheap |
+| KFC.juegos          | available | $478.98   | —             | 74             | 27     | 3      | namecheap |
+| systems.juegos      | available | $478.98   | —             | 46             | 27     | 7      | namecheap |
+| tips.juegos         | available | $478.98   | —             | 80             | 26     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,376 live domains                              |
+| 1,000-row public sample | 12,901 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
