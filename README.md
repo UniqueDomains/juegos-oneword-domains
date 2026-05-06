@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .juegos one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,901 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,901 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,901 domains · **Median ask:** $478.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/juegos`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.juegos       | available | $478.98   | —             | 56             | 50     | 6      | namecheap |
-| jobs.juegos         | available | $478.98   | —             | 79             | 42     | 4      | namecheap |
-| Tools.juegos        | available | $478.98   | —             | 56             | 40     | 5      | namecheap |
-| matcha.juegos       | available | $478.98   | —             | 86             | 39     | 6      | namecheap |
-| stories.juegos      | available | $478.98   | —             | 58             | 36     | 7      | namecheap |
-| homes.juegos        | available | $478.98   | —             | 86             | 34     | 5      | namecheap |
-| tickets.juegos      | available | $478.98   | —             | 64             | 34     | 7      | namecheap |
-| spectra.juegos      | available | $478.98   | —             | 62             | 34     | 7      | namecheap |
-| teams.juegos        | available | $478.98   | —             | 62             | 32     | 5      | namecheap |
-| partners.juegos     | available | $478.98   | —             | 61             | 32     | 8      | namecheap |
-| William.juegos      | available | $478.98   | —             | 74             | 31     | 7      | namecheap |
-| inspiration.juegos  | available | $478.98   | —             | 88             | 30     | 11     | namecheap |
-| rewards.juegos      | available | $478.98   | —             | 62             | 30     | 7      | namecheap |
-| quotes.juegos       | available | $478.98   | —             | 58             | 29     | 6      | namecheap |
-| Jim.juegos          | available | $478.98   | —             | 78             | 28     | 3      | namecheap |
-| commonground.juegos | available | $478.98   | —             | 74             | 28     | 13     | namecheap |
-| photos.juegos       | available | $478.98   | —             | 54             | 28     | 6      | namecheap |
-| KFC.juegos          | available | $478.98   | —             | 74             | 27     | 3      | namecheap |
-| systems.juegos      | available | $478.98   | —             | 46             | 27     | 7      | namecheap |
-| tips.juegos         | available | $478.98   | —             | 80             | 26     | 4      | namecheap |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.juegos        | available | $478.98   | —             | 80             | 26     | 4      | namecheap |
+| Trex.juegos        | available | $478.98   | —             | 80             | 24     | 5      | namecheap |
+| girls.juegos       | available | $478.98   | —             | 83             | 23     | 5      | namecheap |
+| homes.juegos       | available | $478.98   | —             | 86             | 34     | 5      | namecheap |
+| jewels.juegos      | available | $478.98   | —             | 80             | 15     | 6      | namecheap |
+| barup.juegos       | available | $478.98   | —             | 82             | 2      | 6      | namecheap |
+| forces.juegos      | available | $478.98   | —             | 82             | 12     | 6      | namecheap |
+| matcha.juegos      | available | $478.98   | —             | 86             | 39     | 6      | namecheap |
+| dogsit.juegos      | available | $478.98   | —             | 96             | 2      | 6      | namecheap |
+| hangon.juegos      | available | $478.98   | —             | 82             | 6      | 7      | namecheap |
+| agents.juegos      | available | $478.98   | —             | 56             | 50     | 6      | namecheap |
+| jobs.juegos        | available | $478.98   | —             | 79             | 42     | 4      | namecheap |
+| Tools.juegos       | available | $478.98   | —             | 56             | 40     | 5      | namecheap |
+| stories.juegos     | available | $478.98   | —             | 58             | 36     | 7      | namecheap |
+| tickets.juegos     | available | $478.98   | —             | 64             | 34     | 7      | namecheap |
+| spectra.juegos     | available | $478.98   | —             | 62             | 34     | 7      | namecheap |
+| teams.juegos       | available | $478.98   | —             | 62             | 32     | 5      | namecheap |
+| partners.juegos    | available | $478.98   | —             | 61             | 32     | 8      | namecheap |
+| William.juegos     | available | $478.98   | —             | 74             | 31     | 7      | namecheap |
+| inspiration.juegos | available | $478.98   | —             | 88             | 30     | 11     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,901 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,901 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely focused on one-word .juegos domains. The names range from broad dictionary terms to short brandable words, with examples such as tips.juegos, Trex.juegos, girls.juegos, homes.juegos, and jewels.juegos. For founders, the main question is whether the word is memorable, easy to say, and specific enough to support a gaming-facing brand without feeling narrow. For investors, the key test is whether the term has clear commercial meaning and a sensible entry price relative to the median ask of 478.76. When comparing these domains, weigh clarity, language fit, and whether the word feels naturally connected to games, entertainment, or a wider consumer audience.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that read naturally with the .juegos ending
+- Check if the term is broad, commercial, and easy to recall
+- Use median ask 478.76 as a pricing reference point
+- Be cautious with words that may carry trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
