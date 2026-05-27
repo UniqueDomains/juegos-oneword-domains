@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .juegos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,900 domains · **Median ask:** $478.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/juegos`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.juegos        | available | $478.98   | —             | 80             | 26     | 4      | namecheap |
-| Trex.juegos        | available | $478.98   | —             | 80             | 24     | 5      | namecheap |
-| girls.juegos       | available | $478.98   | —             | 83             | 23     | 5      | namecheap |
-| homes.juegos       | available | $478.98   | —             | 86             | 34     | 5      | namecheap |
-| jewels.juegos      | available | $478.98   | —             | 80             | 15     | 6      | namecheap |
-| barup.juegos       | available | $478.98   | —             | 82             | 2      | 6      | namecheap |
-| forces.juegos      | available | $478.98   | —             | 82             | 12     | 6      | namecheap |
-| matcha.juegos      | available | $478.98   | —             | 86             | 39     | 6      | namecheap |
-| dogsit.juegos      | available | $478.98   | —             | 96             | 2      | 6      | namecheap |
-| hangon.juegos      | available | $478.98   | —             | 82             | 6      | 7      | namecheap |
-| agents.juegos      | available | $478.98   | —             | 56             | 50     | 6      | namecheap |
-| jobs.juegos        | available | $478.98   | —             | 79             | 42     | 4      | namecheap |
-| Tools.juegos       | available | $478.98   | —             | 56             | 40     | 5      | namecheap |
-| stories.juegos     | available | $478.98   | —             | 58             | 36     | 7      | namecheap |
-| tickets.juegos     | available | $478.98   | —             | 64             | 34     | 7      | namecheap |
-| spectra.juegos     | available | $478.98   | —             | 62             | 34     | 7      | namecheap |
-| teams.juegos       | available | $478.98   | —             | 62             | 32     | 5      | namecheap |
-| partners.juegos    | available | $478.98   | —             | 61             | 32     | 8      | namecheap |
-| William.juegos     | available | $478.98   | —             | 74             | 31     | 7      | namecheap |
-| inspiration.juegos | available | $478.98   | —             | 88             | 30     | 11     | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.juegos     | available | $478.98   | —             | 80             | 26     | 4      | namecheap |
+| Trex.juegos     | available | $478.98   | —             | 80             | 24     | 5      | namecheap |
+| girls.juegos    | available | $478.98   | —             | 83             | 23     | 5      | namecheap |
+| homes.juegos    | available | $478.98   | —             | 86             | 34     | 5      | namecheap |
+| jewels.juegos   | available | $478.98   | —             | 80             | 15     | 6      | namecheap |
+| barup.juegos    | available | $478.98   | —             | 82             | 2      | 6      | namecheap |
+| forces.juegos   | available | $478.98   | —             | 82             | 12     | 6      | namecheap |
+| matcha.juegos   | available | $478.98   | —             | 86             | 39     | 6      | namecheap |
+| dogsit.juegos   | available | $478.98   | —             | 96             | 2      | 6      | namecheap |
+| hangon.juegos   | available | $478.98   | —             | 82             | 6      | 7      | namecheap |
+| agents.juegos   | available | $478.98   | —             | 56             | 50     | 6      | namecheap |
+| jobs.juegos     | available | $478.98   | —             | 79             | 42     | 4      | namecheap |
+| Tools.juegos    | available | $478.98   | —             | 56             | 40     | 5      | namecheap |
+| stories.juegos  | available | $478.98   | —             | 58             | 36     | 7      | namecheap |
+| tickets.juegos  | available | $478.98   | —             | 64             | 34     | 7      | namecheap |
+| spectra.juegos  | available | $478.98   | —             | 62             | 34     | 7      | namecheap |
+| teams.juegos    | available | $478.98   | —             | 62             | 32     | 5      | namecheap |
+| William.juegos  | available | $478.98   | —             | 74             | 31     | 7      | namecheap |
+| partners.juegos | available | $478.98   | —             | 61             | 31     | 8      | namecheap |
+| rewards.juegos  | available | $478.98   | —             | 62             | 30     | 7      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
