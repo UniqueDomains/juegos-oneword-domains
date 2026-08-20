@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .juegos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,867 domains · **Median ask:** $436.26 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/juegos`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| age.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| aid.juegos | available | $478.98   | —             | medium         | low    | 3      | namecheap |
-| aim.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| ala.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| bed.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| BJP.juegos | available | $478.98   | —             | medium         | low    | 3      | namecheap |
-| car.juegos | available | $478.98   | —             | high           | medium | 3      | namecheap |
-| dip.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| don.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| flu.juegos | available | $478.98   | —             | medium         | low    | 3      | namecheap |
-| fog.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| key.juegos | available | $478.98   | —             | high           | medium | 3      | namecheap |
-| kgb.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| kid.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| led.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| lip.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| lvi.juegos | available | $368.98   | $478.98       | low            | low    | 3      | namecheap |
-| mid.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| non.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
-| NYT.juegos | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| okay.juegos  | available | $478.98   | —             | high           | low    | 4      | namecheap |
+| feel.juegos  | available | $478.98   | —             | high           | low    | 4      | namecheap |
+| sorry.juegos | available | $478.98   | —             | high           | low    | 5      | namecheap |
+| age.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| aid.juegos   | available | $478.98   | —             | medium         | low    | 3      | namecheap |
+| aim.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| ala.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| bed.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| BJP.juegos   | available | $478.98   | —             | medium         | low    | 3      | namecheap |
+| car.juegos   | available | $478.98   | —             | high           | medium | 3      | namecheap |
+| dip.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| don.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| flu.juegos   | available | $478.98   | —             | medium         | low    | 3      | namecheap |
+| fog.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| key.juegos   | available | $478.98   | —             | high           | medium | 3      | namecheap |
+| kgb.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| kid.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| led.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| lip.juegos   | available | $478.98   | —             | high           | low    | 3      | namecheap |
+| lvi.juegos   | available | $368.98   | $478.98       | low            | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JUEGOS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
